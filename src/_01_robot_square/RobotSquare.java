@@ -12,11 +12,10 @@ public class RobotSquare {
     public static void main(String[] args) throws Exception {
  
     	// 1. Make a new Robot
-
+Robot adora=new Robot( );
 
         // 3. Put the robot's pen down
-
-
+adora.penDown();
         // 6. Make the robot move as fast as possible
 
 
@@ -24,7 +23,7 @@ public class RobotSquare {
 
 
         //         2. Move your robot 200 pixels
-
+adora.move(200);
 
         //         4. Turn the robot 90 degrees to the right (90 degrees)
 

@@ -14,4 +14,4 @@ public class Welcome {
 		r2d2.move(400);
 		JOptionPane.showMessageDialog(null, "WELCOME TO LEVEL 0!!");
 	}
-}
+} 
