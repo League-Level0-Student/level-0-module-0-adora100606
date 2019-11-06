@@ -1,3 +1,4 @@
+package _06_everything_is_awesome;
 import javax.swing.JOptionPane;
 
 public class awessome {
