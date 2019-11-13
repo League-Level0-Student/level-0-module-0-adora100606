@@ -8,7 +8,7 @@ public class LastSummer {
 		// TODO Auto-generated method stub
 String name  = JOptionPane.showInputDialog("what is your name");
 
-JOptionPane.showMessageDialog(null,name+"whatI did Last summer"+name);
+JOptionPane.showMessageDialog(null,"Inow what did Last summer"+name);
 	}
 
 }
